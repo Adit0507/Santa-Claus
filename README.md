@@ -7,3 +7,5 @@ Deployed Link: https://adit0507.github.io/Santa-Claus/
 - For making Santa's body custom CSS variables were used. 
 - Each component of Santa's body was made specifically
 - Animations were used to give the snowfall background ❄
+
+## Looks better on Phone :)
